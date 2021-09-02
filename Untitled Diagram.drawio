@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T19:50:22.749Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ybprFfr-G65ue9Mw9xJ0" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T19:51:25.929Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ON_-m3JL37mQ8r76lvGy" version="15.0.6" type="github">
   <diagram id="Fmpa-COd6J_b_fzYQaFG" name="Page-1">
     <mxGraphModel dx="1078" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,11 +25,20 @@
         <mxCell id="sVx-6X5LhX6Xo08L69X_-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pinpoint-interface/48/location-128.png;strokeColor=#330000;" parent="1" vertex="1">
           <mxGeometry x="292" y="359" width="28" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="4qManxZfzn34yBkkgIPU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVx-6X5LhX6Xo08L69X_-16" target="_487zrJsyZNWQ4AbuC8U-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="319" y="580" />
+              <mxPoint x="390" y="580" />
+              <mxPoint x="390" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sVx-6X5LhX6Xo08L69X_-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Machine_2.svg;strokeColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="299" y="530" width="39.13" height="36" as="geometry" />
+          <mxGeometry x="299" y="538" width="39.13" height="36" as="geometry" />
         </mxCell>
         <mxCell id="sVx-6X5LhX6Xo08L69X_-17" value="VM &lt;br&gt;SFTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="253.57" y="580" width="130" height="20" as="geometry" />
+          <mxGeometry x="253.57" y="588" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sVx-6X5LhX6Xo08L69X_-18" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxOCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJhIiB4MT0iLjUiIHkxPSI5Ljc3IiB4Mj0iOSIgeTI9IjkuNzciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMwMDViYTEiLz48c3RvcCBvZmZzZXQ9Ii4wNyIgc3RvcC1jb2xvcj0iIzAwNjBhOSIvPjxzdG9wIG9mZnNldD0iLjM2IiBzdG9wLWNvbG9yPSIjMDA3MWM4Ii8+PHN0b3Agb2Zmc2V0PSIuNTIiIHN0b3AtY29sb3I9IiMwMDc4ZDQiLz48c3RvcCBvZmZzZXQ9Ii42NCIgc3RvcC1jb2xvcj0iIzAwNzRjZCIvPjxzdG9wIG9mZnNldD0iLjgxIiBzdG9wLWNvbG9yPSIjMDA2YWJiIi8+PHN0b3Agb2Zmc2V0PSIuOTkiIHN0b3AtY29sb3I9IiMwMDViYTEiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cGF0aCBkPSJNMTMuMjUgMTAuNDhWNi41N2EuMTQuMTQgMCAwMC0uMjQtLjFsLTQgNC00LjE2IDQuMTZ2Mi44N2gxMi4wOGEuNTYuNTYgMCAwMC41Ny0uNTdWNi41N2EuMTQuMTQgMCAwMC0uMjQtLjF6IiBmaWxsPSIjMDA1YmExIi8+PHBhdGggZD0iTTQuNzUgMy41OEMyLjQgMy41OC41IDIuODkuNSAydjE0LjkzYS41Ni41NiAwIDAwLjU3LjU3SDlWMmMwIC44OS0xLjkgMS41OC00LjI1IDEuNTh6IiBmaWxsPSJ1cmwoI2EpIi8+PHJlY3QgeD0iMTIuOTEiIHk9IjEyLjk3IiB3aWR0aD0iMi4yNyIgaGVpZ2h0PSIyLjI3IiByeD0iLjI4IiBmaWxsPSIjZmZmIi8+PHJlY3QgeD0iOC45NyIgeT0iMTIuOTciIHdpZHRoPSIyLjI3IiBoZWlnaHQ9IjIuMjciIHJ4PSIuMjgiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSI1LjAzIiB5PSIxMi45NyIgd2lkdGg9IjIuMjciIGhlaWdodD0iMi4yNyIgcng9Ii4yOCIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik05IDJjMCAuODUtMS45IDEuNTQtNC4yNSAxLjU0Uy41IDIuODkuNSAyIDIuNC41IDQuNzUuNSA5IDEuMTkgOSAyIiBmaWxsPSIjZWFlYWVhIi8+PHBhdGggZD0iTTggMS45MWMwIC41NS0xLjQ2IDEtMy4yNiAxcy0zLjI2LS40My0zLjI2LTFTMyAuOTQgNC43NS45NCA4IDEuMzcgOCAxLjkxIiBmaWxsPSIjNTBlNmZmIi8+PHBhdGggZD0iTTQuNzUgMi4xNGE4LjA3IDguMDcgMCAwMC0yLjU4LjM3IDcuNjQgNy42NCAwIDAwMi41OC4zOCA3LjY0IDcuNjQgMCAwMDIuNTgtLjM4IDguMDcgOC4wNyAwIDAwLTIuNTgtLjM3eiIgZmlsbD0iIzE5OGFiMyIvPjwvc3ZnPg==;strokeColor=#330000;" parent="1" vertex="1">
           <mxGeometry x="370" y="400" width="48" height="48" as="geometry" />
@@ -48,6 +57,12 @@
         </mxCell>
         <mxCell id="sVx-6X5LhX6Xo08L69X_-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" parent="1" vertex="1">
           <mxGeometry x="458" y="561" width="30" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="4qManxZfzn34yBkkgIPU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4qManxZfzn34yBkkgIPU-1" target="_487zrJsyZNWQ4AbuC8U-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4qManxZfzn34yBkkgIPU-1" value="ADF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="328" y="450" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
