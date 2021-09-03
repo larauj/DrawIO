@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T18:06:19.699Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="HizwNaO4T1l3YpIX_atU" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T18:13:30.526Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Ap3EUv93sSeF7EEhsn-m" version="15.0.6" type="github">
   <diagram id="Fmpa-COd6J_b_fzYQaFG" name="Page-1">
-    <mxGraphModel dx="1371" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,21 @@
         </mxCell>
         <mxCell id="pyuiP2n4TVAtCu8Zxtwx-16" value="Novo Bucket S3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="160.5" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuiP2n4TVAtCu8Zxtwx-17" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;strokeColor=#BFBFBF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="580" width="75" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuiP2n4TVAtCu8Zxtwx-18" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Lake.svg;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="597.5" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuiP2n4TVAtCu8Zxtwx-19" value="ADLS&lt;br&gt;Gen 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="597.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuiP2n4TVAtCu8Zxtwx-20" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;/rawdata&lt;/span&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;/dynatrace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="661" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuiP2n4TVAtCu8Zxtwx-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="558" y="661" width="30" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
