@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T19:44:33.707Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.7" etag="QM26NDgtF5qDRqGNK3X4" type="github"><diagram id="fbzLKDrmavPzI8E0rMYh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-28T19:53:51.751Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="zvgD6hFFs0HbMva3-qz3" version="15.3.7" type="github">
+  <diagram id="fbzLKDrmavPzI8E0rMYh" name="Page-1">
+    <mxGraphModel dx="1183" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Stream_Analytics_Jobs.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="207" width="68" height="57.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="110" y="207" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcX-sUgM3D7OOQy3_1p8-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-3" value="Input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="219.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-4" value="Input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="219.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcX-sUgM3D7OOQy3_1p8-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="229.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-5" value="output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="219.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-6" value="Query (Processing Logic)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/file-61/20/file_json-128.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-9" value="Blob Storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="265" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="150" as="sourcePoint" />
+            <mxPoint x="190" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="213.5" width="39.13" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-15" value="Blob Storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="265" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-16" value="Azure Synapse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="649.13" y="275" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX-sUgM3D7OOQy3_1p8-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/interface-8/128/InterfaceExpendet-01-128.png" vertex="1" parent="1">
+          <mxGeometry x="403" y="265" width="55" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
